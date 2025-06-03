@@ -33,7 +33,7 @@ jobs:
             win64,
             mingw32,
             mingw64,
-            windows-2019,
+            windows-2022,
           ]
         cargo_flags: ['', '--release', '--features parallel']
         include:
