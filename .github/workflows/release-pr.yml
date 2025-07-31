@@ -11,6 +11,7 @@ on:
 
 jobs:
   release-plz-pr:
+    if: github.repository_owner == 'rust-lang'
     name: Release-plz PR
     runs-on: ubuntu-latest
     concurrency:
