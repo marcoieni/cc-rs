@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0](https://github.com/marcoieni/cc-rs/compare/find-msvc-tools-v0.1.1...find-msvc-tools-v0.2.0) - 2026-09-11
+
+### Other
+
+- release ([#1542](https://github.com/marcoieni/cc-rs/pull/1542))
+- Regenerate windows sys bindings ([#1548](https://github.com/marcoieni/cc-rs/pull/1548))
+- Add fn get_ucrt_dir for find-msvc-tools ([#1546](https://github.com/marcoieni/cc-rs/pull/1546))
+- Extract windows-find-tools ([#1531](https://github.com/marcoieni/cc-rs/pull/1531))
+
 ## [0.1.1](https://github.com/rust-lang/cc-rs/compare/find-msvc-tools-v0.1.0...find-msvc-tools-v0.1.1) - 2025-09-05
 
 ### Other
